@@ -1,0 +1,12 @@
+this is the first version of the macro.
+
+[installation]
+download the file
+open it with macrodroid (you may need to rename the file to .macro)
+add a qs tile
+set the trigers to use the qs tile
+
+[Features]
+volume saving
+"""settings""" (just 1 option)
+diferent dnd modes (block all and alarm only)
