@@ -7,4 +7,4 @@ Better Don't Disturb (BDND) is a powerfull macrodroid macro that controles your 
 you can enter the wiki [here](https://github.com/felixgamer27/Better-Dont-Disturb/wiki)
 
 # Download
-To download the macro, go to the [versions folder] (url), select the version you want and download the macro using github or using the link to macrodroid store
+To download the macro, go to the [versions folder](https://github.com/felixgamer27/Better-Dont-Disturb/tree/main/versions), select the version you want and download the macro using github or using the link to macrodroid store
