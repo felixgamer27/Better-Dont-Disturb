@@ -13,4 +13,4 @@ To download the macro, go to the [versions folder](https://github.com/felixgamer
 
 # Installation/setup
 The macro has a highly recommended setup to configure the qs tile (don't worry, it's just 1 minute and the macro will gide you through the process).
-if you need more help you can chech the [full Installation](https://github.com/felixgamer27/Better-Dont-Disturb/wiki/Full-installation-guide#full-installation-guide)guide in the wiki
+if you need more help you can chech the [full Installation](https://github.com/felixgamer27/Better-Dont-Disturb/wiki/Full-installation-guide#full-installation-guide) guide in the wiki
