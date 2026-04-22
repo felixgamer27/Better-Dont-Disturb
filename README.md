@@ -10,6 +10,7 @@ you can enter the wiki [here](https://github.com/felixgamer27/Better-Dont-Distur
 if you just need to download the latest version, download [this](https://github.com/felixgamer27/Better-Dont-Disturb/blob/main/versions/4.x/4.1.0a/-Bdnd-_Better_don't_disturb_4.1.0a_-_Bdnd_api.macro) file from github or use this [link to macrodroid store](https://www.macrodroidlink.com/macrostore?id=29664)
 
 To download the macro, go to the [versions folder](https://github.com/felixgamer27/Better-Dont-Disturb/tree/main/versions), select the version you want and download the macro using github or using the link to macrodroid store
+You can also download a beta version in the [unstable folder](https://github.com/felixgamer27/Better-Dont-Disturb/tree/main/Unstable) but is not recomended
 
 # Installation/setup
 The macro has a highly recommended setup to configure the qs tile (don't worry, it's just 1 minute and the macro will gide you through the process).
