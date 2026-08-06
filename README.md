@@ -18,7 +18,7 @@ or
 
     bmm -s bdnd
 
-
+or using the BMM GUI store (click on the "Better don't disturb" package, then click "install").
 You can also download a beta version in the [unstable folder](https://github.com/felixgamer27/Better-Dont-Disturb/tree/main/Unstable) but is not recomended if you want a reliable macro.
 
 # Installation/setup
