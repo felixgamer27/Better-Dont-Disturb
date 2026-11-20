@@ -1,4 +1,6 @@
 # Better-Dont-Disturb
+<img width="279" height="103" alt="bdnd-logo" src="https://github.com/user-attachments/assets/0aed62d9-c8a7-451d-a04d-92ef78e56048" />
+
 Hello!
 Android default dnd (Do not disturb) mode wasn't good enough so i made this
 Better Don't Disturb (BDND) is a powerfull macrodroid macro that controles your volume, dnd mode and sound mode in the same macro, it has a lot of features like profiles, custom volume, volume saving, auto activation, etc.
